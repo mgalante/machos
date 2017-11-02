@@ -1,4 +1,5 @@
 export class Meeting {
-  date: Date;
-  location: number;
+	id: number;
+	date: Date;
+	location: number;
 }
